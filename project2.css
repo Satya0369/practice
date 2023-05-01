@@ -1,0 +1,46 @@
+.bg1{
+    background-image: url("https://img.freepik.com/free-vector/flat-golden-circle-balloons-birthday-background_52683-34659.jpg?w=900&t=st=1682953331~exp=1682953931~hmac=73a3ec9beec71b7bfba5b29b657bcbcec866cc342effa6d0fa9ae96ccb002de1") ;
+    background-size: cover;
+    height:100vh;
+}
+.h-center{
+    text-align:center;
+}
+.diwali-top-section {
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/69/19/65/1000_F_269196580_cFrcA6J9ze2vCTrvBSc7ZT9WVLsutupM.jpg");
+    
+    height:548px;
+    
+    background-size: cover;
+  }
+  .diwali-top-section-heading {
+    color: rgb(86, 115, 179);
+    font-family: "Caveat";
+    font-size: 50px;
+    width: 200px;
+    padding: 20px;
+  }
+  .diwali-bottom-section {
+    text-align:center;
+    background-color: #e6f6ff;
+    padding:15px;
+  }
+  .diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width:295px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 40px;
+  }
+  .diwali-card-image {
+    height: 264px;
+    width: 264px;
+  }
+  .diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: normal;
+  }
+  
